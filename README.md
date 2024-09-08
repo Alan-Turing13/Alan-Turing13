@@ -7,3 +7,5 @@ I’m experienced in full-stack development with both Java and Python, using Spr
 I’m comfortable working with JUnit, ORMs (Hibernate), SQL, AWS, Docker and GitHub. I have built React and browser-based Javascript apps. 
 
 There are also many transferable skills I carry over from being a full-time musician, most notably: leadership & team-building, self-led problem-solving, spontaneity and how to handle fluctuating emotional states within a team. 
+
+I am currently seeking work as a full-stack Java & Python engineer.
