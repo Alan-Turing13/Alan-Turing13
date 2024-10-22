@@ -1,6 +1,6 @@
 I picked up coding post-pandemic and it very quickly became part of me. I love both the problem-solving and the patience it teaches. 
 
-Currently enrolled on NorthCoders’ Java Development course, I have already upskilled significantly through extensive pair-programming and test-driven development. 
+Recently graduated from NorthCoders’ Java Development course, I have already upskilled significantly through extensive pair-programming and test-driven development. 
 
 I’m experienced in full-stack development with both Java and Python, using Spring Framework and Django respectively. 
 
