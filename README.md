@@ -8,4 +8,4 @@ I’m comfortable working with JUnit, ORMs (Hibernate), SQL, AWS, Docker and Git
 
 There are also many transferable skills I carry over from being a full-time musician, most notably: leadership & team-building, self-led problem-solving, spontaneity and how to handle fluctuating emotional states within a team. 
 
-I am currently seeking work as a full-stack Java & Python engineer.
+I am currently seeking work as a Software Engineer.
